@@ -1,3 +1,8 @@
 gitの練習続きから
 基本的なワークフローを学びます。
-git merge
+
+feature
+
+コンフリクト
+
+pull request
