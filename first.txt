@@ -3,4 +3,6 @@ gitの練習続きから
 
 feature
 
+コンフリクト
+
 git commit --amend
