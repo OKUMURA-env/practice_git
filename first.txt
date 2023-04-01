@@ -1,4 +1,6 @@
 gitの練習続きから
 基本的なワークフローを学びます。
 
+feature
+
 git commit --amend
